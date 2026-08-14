@@ -18,13 +18,13 @@ Plain HTML, CSS, and JavaScript. No build step, no framework, no dependencies.
 The cream (`#F3E7D6`), the ochre, and the hand are all sampled from the actual
 card, so the site and the card are the same piece of paper.
 
-## Publishing to GitHub Pages
+## Live site
 
-1. Create a repository on GitHub.
-2. Upload these files to the **root** of the repo (not inside a subfolder).
-3. Go to **Settings → Pages**.
-4. Under *Source*, choose **Deploy from a branch**, pick `main` and `/ (root)`, save.
-5. The site appears at `https://<username>.github.io/<repo>/` within a minute or two.
+The site is published through GitHub Pages at:
+
+**https://themtset.github.io/naturesanswers4u/**
+
+GitHub Pages deploys automatically from the root of the `main` branch.
 
 ### Using naturesanswers4u.org instead
 
