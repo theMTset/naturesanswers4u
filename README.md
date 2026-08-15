@@ -12,11 +12,11 @@ Plain HTML, CSS, and JavaScript. No build step, no framework, no dependencies.
 | `script.js` | Scroll reveals, sticky header, footer year |
 | `hand.webp` | The hand, lifted from the printed business card |
 | `photo-2-JPG-a07-150x150.jpg` | Pat's photo in the About section |
-| `paper.webp` | Seamless paper-grain tile tinted by the page background |
+| `paper.webp` | Seamless paper-grain tile used as the page background |
 | `favicon.svg` | Browser tab icon |
 
-The light yellow (`#FFF6CC`) tints the paper texture, while the ochre and the
-hand are sampled from the actual card.
+The cream (`#F3E7D6`), the ochre, and the hand are all sampled from the actual
+card, so the site and the card are the same piece of paper.
 
 ## Live site
 
@@ -45,8 +45,7 @@ Everything is plain text in `index.html` — open it in any text editor.
   links) and `864-836-6085` (the visible text) and change both.
 - **Section text** sits between the HTML tags, e.g. `<h2>Pat McCain</h2>`.
 - **Colors** are at the top of `style.css` under `:root` — change `--ochre`
-  or `--paper` once and it updates everywhere. If changing `--paper`, update
-  the matching paper tint and header color in `style.css` as well.
+  or `--paper` once and it updates everywhere.
 
 ### Copy worth reviewing
 
